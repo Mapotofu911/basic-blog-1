@@ -21,3 +21,4 @@ Pour démarrer le projet :
 - ouvrir un terminal
 - naviguer jusqu'au projet
 - node server.js
+- Accéder au site via localhost:8000/
